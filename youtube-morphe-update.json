@@ -1,6 +1,6 @@
 {
   "version": "21.16.256 (patches dev.21.mpp)",
-  "versionCode": 3,
-  "zipUrl": "https://github.com/NullDonut/revanced-morphe-builder/releases/download/3/youtube-morphe-dev-module-v21.16.256-all.zip",
+  "versionCode": 4,
+  "zipUrl": "https://github.com/NullDonut/revanced-morphe-builder/releases/download/4/youtube-morphe-dev-module-v21.16.256-all.zip",
   "changelog": "https://raw.githubusercontent.com/NullDonut/revanced-morphe-builder/update/build.md"
 }
