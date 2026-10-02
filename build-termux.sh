@@ -41,13 +41,13 @@ if [ -d revanced-morphe-builder ] || [ -f config.toml ]; then
 		cd ..
 		cp -f revanced-morphe-builder/config.toml .
 		rm -rf revanced-morphe-builder
-		git clone https://github.com/peternmuller/revanced-morphe-builder --recurse --depth 1
+		git clone https://github.com/NullDonut/revanced-morphe-builder --recurse --depth 1
 		mv -f config.toml revanced-morphe-builder/config.toml
 		cd revanced-morphe-builder
 	fi
 else
 	pr "Cloning revanced-morphe-builder."
-	git clone https://github.com/peternmuller/revanced-morphe-builder --depth 1
+	git clone https://github.com/NullDonut/revanced-morphe-builder --depth 1
 	cd revanced-morphe-builder
 	sed -i '/^enabled.*/d; /^\[.*\]/a enabled = false' config.toml
 	grep -q 'revanced-morphe-builder' ~/.gitconfig 2>/dev/null ||
