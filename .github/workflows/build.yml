@@ -150,10 +150,10 @@ jobs:
           *▼ Download Links:*
           ${MODULES}${APKS}
 
-          *By @peternoz*
+          *By @jwwjhwaj*
 
           *🌟 Check out my builder source:*
-          https://github.com/peternmuller/revanced-morphe-builder
+          https://github.com/nulldonut/revanced-morphe-builder
           "
           echo "'$MSG'"
           MSG=${MSG:0:9450}
