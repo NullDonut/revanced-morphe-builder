@@ -4,7 +4,9 @@ YouTube-Morphe: 21.16.256
 Install [ReVanced GmsCore](https://github.com/ReVanced/GmsCore/releases/latest) or [Morphe MicroG-RE](https://github.com/MorpheApp/MicroG-RE/releases/latest) for non-root YouTube and YouTube Music APKs  
 (Optional) Use [zygisk-detach](https://github.com/j-hc/zygisk-detach/releases/latest) to detach YouTube and YouTube Music modules from the Play Store
   
-Patches: MorpheApp/morphe-patches/patches-1.46.0-dev.8.mpp  
-[Changelog](https://github.com/MorpheApp/morphe-patches/releases/tag/v1.46.0-dev.8)
+Patches: MorpheApp/morphe-patches/patches-1.46.0-dev.9.mpp  
+[Changelog](https://github.com/MorpheApp/morphe-patches/releases/tag/v1.46.0-dev.9)
 
-CLI: MorpheApp/morphe-cli/morphe-desktop-1.18.1-all.jar    
+CLI: MorpheApp/morphe-cli/morphe-desktop-1.18.1-all.jar  
+Patches: MorpheApp/morphe-patches/patches-1.46.0.mpp  
+[Changelog](https://github.com/MorpheApp/morphe-patches/releases/tag/v1.46.0)  
