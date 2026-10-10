@@ -1,6 +1,6 @@
 {
   "version": "9.20.53 (patches dev.15.mpp)",
-  "versionCode": 20,
-  "zipUrl": "https://github.com/NullDonut/revanced-morphe-builder/releases/download/20/yt-music-morphe-dev-module-v9.20.53-arm64-v8a.zip",
+  "versionCode": 21,
+  "zipUrl": "https://github.com/NullDonut/revanced-morphe-builder/releases/download/21/yt-music-morphe-dev-module-v9.20.53-arm64-v8a.zip",
   "changelog": "https://raw.githubusercontent.com/NullDonut/revanced-morphe-builder/update/build.md"
 }
